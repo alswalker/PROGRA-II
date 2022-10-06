@@ -29,7 +29,7 @@ VALUES
 ('AGRÍCOLA DECORATIVA','3932283-1','CIUDAD','12605353','agrícoladecorativa@gmail.com');
 
 
-INSERT INTO T_USUARIO (USUARIO, CONTRASEÑA)
+INSERT INTO T_USUARIO (USUARIO, PASSWORD)
 VALUES 
 ('fcordon','admin1'),
 ('mgarcia','admin2'),
